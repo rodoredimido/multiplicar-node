@@ -6,7 +6,6 @@
     de la tabla de multiplicar 
 
     ejecutar este comando:
-
     ```
     npm install
     ```
